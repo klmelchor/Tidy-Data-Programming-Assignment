@@ -23,4 +23,4 @@ test_final - Constructed test data set containing all three previous tables
 
 merged_data - Contains both the reconstructed training and test sets  
 final_data - A subset of merged_data where only column names that contain "mean" or "std" are selected  
-grouped_data - A summarized version of final_data containing the mean of all column variables grouped by Subject(1st priority) and Activity  
+grouped_data - A summarized version of final_data containing the mean of all column variables grouped by Subject (1st priority) and Activity  
