@@ -7,7 +7,7 @@ run_analysis.R runs a script that constructs both the training and test data set
 
 Code Variables and Description
 
-col_names - Contains the variable names of the data set
+col_names - Contains the variable names of the data set  
 activities - Contains look-up table for activity tags
 mean_std_cols - A vector containing all column indeces that pertain to either "mean" or "std"
 
